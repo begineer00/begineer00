@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @begineer00
+- 👀 I’m interested in obviously coding 
+- 🌱 I’m currently learning css
+- 💞️ I’m looking to collaborate on nothing much right now but sure soon
+- 📫 How to reach me ig-@raideeepsingh email-singhraideep23@gmail.com
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I'm a class 12 student giving my boards currently
+
+<!---
+begineer00/begineer00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
